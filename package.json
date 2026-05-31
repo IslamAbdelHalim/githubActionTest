@@ -16,7 +16,7 @@
     "url": "https://github.com/IslamAbdelHalim/githubActionTest/issues"
   },
   "homepage": "https://github.com/IslamAbdelHalim/githubActionTest#readme",
-  "devDependencies": {
+  "dependencies": {
     "jest": "^30.4.2"
   }
 }
